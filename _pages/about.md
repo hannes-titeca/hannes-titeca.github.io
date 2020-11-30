@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm studying for a PhD in Economics and currently in my final / 4th year.
+I am a Phd candidate in Economics at the University of Exeter.
 
 I have been undertaking research on how prosocial/altruistic behaviours are affected by psychological factors with the PhD (and Masters before it) being funded by an ESRC "1+3" scholarship. I also undertake part-time undergraduate teaching and marking as a postgraduate teaching assistant for the Business School.
 
