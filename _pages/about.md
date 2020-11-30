@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hannes Titeca"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
