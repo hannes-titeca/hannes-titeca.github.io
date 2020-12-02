@@ -15,5 +15,5 @@ My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sa
 
 [CV (last updated 1st December 2020)](https://hannes-titeca.github.io/files/CV.pdf)
 
-[Testing for exposure effects and guilt aversion in a
-public goods game (Job Market Paper, last updated 1st December 2020)](https://hannes-titeca.github.io/files/JMP 1-12-20.pdf)
+[Job Market Paper - "Testing for exposure effects and guilt aversion in a
+public goods game" (last updated 1st December 2020)](https://hannes-titeca.github.io/files/JMP 1-12-20.pdf)
