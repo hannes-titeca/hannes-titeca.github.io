@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD candidate in Economics at the University of Exeter.
 
-I have been undertaking research on how prosocial/cooperative behaviours are affected by psychological factors with the PhD (and Master's before it) being funded by an ESRC "1+3" scholarship. I also undertake part-time undergraduate teaching and marking as a postgraduate teaching assistant for the Economics Department.
+I have been undertaking research on how prosocial/cooperative behaviours are affected by psychological factors. I am grateful to the ESRC for funding my PhD and MSc studies with a with a "1+3" scholarship. I also undertake part-time undergraduate teaching and marking as a postgraduate teaching assistant for the Economics Department at Exeter.
 
 My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sarin.
 
