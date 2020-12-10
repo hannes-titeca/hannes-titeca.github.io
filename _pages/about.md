@@ -23,4 +23,4 @@ My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sa
 
 ["Bribing to queue jump:  Experiments on negative time externalities and legal alternatives" with Lutfi Rahimi (last updated 7th December 2020)](https://hannes-titeca.github.io/files/Bribing to queue jump 7-12-20.pdf)
 
-["Do I care what you think of me?  Varying observability in a public goods experiment" (last updated 2nd December 2020)](https://hannes-titeca.github.io/files/Do I care what you think of me 2-12-20.pdf)
+["Do I care what you think of me?  Varying observability in a public goods experiment" (last updated 10th December 2020)](https://hannes-titeca.github.io/files/Do I care what you think of me 2-12-20.pdf)
