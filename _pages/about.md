@@ -19,8 +19,8 @@ My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sa
 ## Working Papers
 
 
-[Job Market Paper - "Testing for exposure effects and guilt aversion in a public goods game" (last updated 2nd December 2020)](https://hannes-titeca.github.io/files/Testing for exposure effects and guilt aversion 2-12-20.pdf)
+[Job Market Paper - "Testing for exposure effects and guilt aversion in a public goods game" (last updated 11th December 2020)](https://hannes-titeca.github.io/files/Testing for exposure effects and guilt aversion 11-12-20.pdf)
 
 ["Bribing to queue jump:  Experiments on negative time externalities and legal alternatives" with Lutfi Rahimi (last updated 7th December 2020)](https://hannes-titeca.github.io/files/Bribing to queue jump 7-12-20.pdf)
 
-["Do I care what you think of me?  Varying observability in a public goods experiment" (last updated 10th December 2020)](https://hannes-titeca.github.io/files/Do I care what you think of me 2-12-20.pdf)
+["Do I care what you think of me?  Varying observability in a public goods experiment" (last updated 10th December 2020)](https://hannes-titeca.github.io/files/Do I care what you think of me 10-12-20.pdf)
