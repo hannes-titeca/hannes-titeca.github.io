@@ -23,4 +23,4 @@ My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sa
 
 ["Testing for exposure effects and guilt aversion in a public goods game" (last updated 4th March 2021)](https://hannes-titeca.github.io/files/Testing for exposure effects and guilt aversion 4-3-21.pdf)
 
-["Do I care what you think of me?  Varying observability in a public goods experiment" (last updated 4th March 2021)](https://hannes-titeca.github.io/files/Do I care what you think of 4-3-21.pdf)
+["Do I care what you think of me?  Varying observability in a public goods experiment" (last updated 4th March 2021)](https://hannes-titeca.github.io/files/Do I care what you think of me 4-3-21.pdf)
