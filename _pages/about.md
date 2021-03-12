@@ -13,14 +13,13 @@ I have been undertaking research on how prosocial/cooperative behaviours are aff
 
 My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sarin.
 
-[CV (last updated 1st March 2021)](https://hannes-titeca.github.io/files/CV.pdf)
+[CV (last updated 12th March 2021)](https://hannes-titeca.github.io/files/CV.pdf)
 
 
 ## Working papers
 
+["Testing for exposure effects and guilt aversion in a public goods game" (Job Market Paper, last updated 4th March 2021)](https://hannes-titeca.github.io/files/Testing for exposure effects and guilt aversion 4-3-21.pdf)
 
 ["Bribing to queue jump:  Experiments on negative time externalities and legal alternatives" with Lutfi Rahimi (last updated 4th March 2021)](https://hannes-titeca.github.io/files/Bribing to queue jump 4-3-21.pdf)
-
-["Testing for exposure effects and guilt aversion in a public goods game" (last updated 4th March 2021)](https://hannes-titeca.github.io/files/Testing for exposure effects and guilt aversion 4-3-21.pdf)
 
 ["Do I care what you think of me?  Varying observability in a public goods experiment" (last updated 4th March 2021)](https://hannes-titeca.github.io/files/Do I care what you think of me 4-3-21.pdf)
