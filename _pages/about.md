@@ -13,7 +13,7 @@ I have been undertaking research on how prosocial/cooperative behaviours are aff
 
 My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sarin.
 
-[CV (last updated 12th March 2021)](https://hannes-titeca.github.io/files/CV.pdf)
+[CV (last updated 20th March 2021)](https://hannes-titeca.github.io/files/CV.pdf)
 
 
 ## Working papers
