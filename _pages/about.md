@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics at the University of Exeter.
-
-I have been undertaking research on how prosocial/cooperative behaviours are affected by psychological factors. I am grateful to the ESRC for funding my PhD and MSc studies with a "1+3" scholarship. I also undertake part-time undergraduate teaching and marking as a postgraduate teaching assistant for the Economics Department at Exeter.
-
-My supervisors are Prof. Brit Grosskopf, Dr Sebastian Kripfganz & Prof. Rajiv Sarin.
+I am a Lecturer in Economics at the University of Exeter (since September 2021). Prior to this I was a PhD student at Exeter and my thesis looked at how prosocial/cooperative behaviours are affected by psychological factors and I am interested in continuing to conduct research in this area.
 
 [CV (last updated 20th March 2021)](https://hannes-titeca.github.io/files/CV.pdf)
 
