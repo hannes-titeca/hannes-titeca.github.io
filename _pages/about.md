@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Lecturer in Economics at the University of Exeter (since September 2021). Prior to this I was a PhD student at Exeter and my thesis looked at how prosocial/cooperative behaviours are affected by psychological factors and I am interested in continuing to conduct research in this area.
+I am a Lecturer in Economics at the University of Exeter (since September 2021). Prior to this I was a PhD student at Exeter and my thesis looked at how prosocial/cooperative behaviours are affected by psychological factors and I am continuing to conduct research in this area.
 
-[CV (last updated 20th March 2021)](https://hannes-titeca.github.io/files/CV.pdf)
+[CV (last updated 29th March 2022)](https://hannes-titeca.github.io/files/CV.pdf)
 
 
 ## Working papers
