@@ -15,9 +15,9 @@ Prior to my academic (Lecturer in Economics) and industry roles,  my PhD researc
 
 ## Publications
 
-["Use of statistical process control in quality improvement projects in abdominal surgery: a PRISMA systematic review" with with Yara Lima de Mendonca, Rubiana Sarto, Robert Bethune & Andrew Salmon (BMJ Open Quality, 2024)] (https://bmjopenquality.bmj.com/content/13/1/e002328)
+["Use of statistical process control in quality improvement projects in abdominal surgery: a PRISMA systematic review" with with Yara Lima de Mendonca, Rubiana Sarto, Robert Bethune and Andrew Salmon (BMJ Open Quality, 2024)](https://bmjopenquality.bmj.com/content/13/1/e002328)
 
-["Healthcare Spending: The Role of Healthcare Institutions from an International Perspective" (MaRBLE Research Papers, 2016)] (https://openjournals.maastrichtuniversity.nl/Marble/article/view/255)
+["Healthcare Spending: The Role of Healthcare Institutions from an International Perspective" (MaRBLE Research Papers, 2016)](https://openjournals.maastrichtuniversity.nl/Marble/article/view/255)
 
 ## Working papers
 
