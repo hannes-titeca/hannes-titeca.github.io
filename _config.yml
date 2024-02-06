@@ -83,11 +83,11 @@ author:
   name             : "Hannes Titeca"
   avatar           : "profile.jpg"
   bio              : ""
-  location         : "Exeter, UK"
-  employer         :  "University of Exeter"
+  location         : "London, UK"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=aR7OQxgAAAAJ&hl=en"
-  email            :  "h.titeca2@exeter.ac.uk"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
