@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD qualified researcher with a background in behavioural and experimental economics. I have extensive experience of research and analysis through leading on all aspects of multiple research projects. This includes study/research design, execution/data collection (including experiment/survey design, programming and roll-out), data analysis, reporting/data visualisation, and communicating insights to internal and external stakeholders. 
 
-Prior to my academic (Lecturer in Economics) and industry roles,  my PhD research (conducted as an ESRC funded student) at the Univertity of Exeter focused on how prosocial/cooperative behaviours are affected by psychological factors.
+Prior to my academic (Lecturer in Economics) and industry roles,  my PhD research (conducted as an ESRC funded student) at the University of Exeter focused on how prosocial/cooperative behaviours are affected by psychological factors.
 
 [CV (last updated 6th February 2024)](https://hannes-titeca.github.io/files/CV.pdf)
 
