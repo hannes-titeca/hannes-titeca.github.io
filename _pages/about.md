@@ -11,9 +11,9 @@ I am a PhD qualified researcher with a background in behavioural and experimenta
 
 Prior to my academic (Lecturer in Economics) and industry roles,  my PhD research (conducted as an ESRC funded student) at the University of Exeter focused on how prosocial/cooperative behaviours are affected by psychological factors.
 
-[CV Short (last updated 9th February 2024)](https://hannes-titeca.github.io/files/CV Short - Hannes Titeca.pdf)
+[CV Short](https://hannes-titeca.github.io/files/CV Short - Hannes Titeca.pdf)
 
-[CV Long (last updated 9th February 2024)](https://hannes-titeca.github.io/files/CV Long - Hannes Titeca.pdf)
+[CV Long (includes full teaching experience, paper abstracts and list of conferences presented at)](https://hannes-titeca.github.io/files/CV Long - Hannes Titeca.pdf)
 
 ## Publications
 
